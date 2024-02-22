@@ -1,1 +1,1 @@
-console.lg("Hello world!")
+console.ddlg("Hello world!")
